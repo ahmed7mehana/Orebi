@@ -32,7 +32,7 @@ const handleprod=()=>{
   return (
     <div className='flex flex-wrap '>
       
-<div className=' bg-[#6d6d6d] lg:w-[150px]  w-full sm:min-h-screen'>
+<div className=' bg-[#6d6d6d] lg:w-[150px]  w-full lg:min-h-screen'>
   <div className='py-3 px-2 text-center flex flex-col w-full'>
     <a>
     <button className=' bg-white rounded-lg mt-2 p-1 w-full' onClick={handleuser}> Users</button>
